@@ -6,18 +6,18 @@ permalink: /daily-challenge/
 
 Daily Challenge starts at **6 AM UTC** on EU servers.
 
-### 22.06.2016
+### 24.06.2016
 
-* Ogong's Folly
-* Tomb of the Exiles
-* Avalanche Den
+* Blackram Narrows
+* Heaven's Mandate
+* Zaiwei Ruins
+* Naryu Labyrinth
+* Battleground - 1x win
+
+### 25.06.2016
+
+* Chuanka Frost Cavern
+* Bloodshade Harbor
 * Awakened Necropolis
-* Battleground
-
-### 23.06.2016
-
-* Talus Dungeon
-* Blackram Supply Chain
-* Cold Storage
-* Lair of the Frozen Fang
+* Sogun's Lament
 * Arena - win 1x 1v1 match
