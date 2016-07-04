@@ -14,7 +14,6 @@
       </a>
 
       <div class="trigger">
-        <a class="page-link" href="https://www.twitch.tv/yukinoki" target="_blank">Yukinoki's stream</a>
         {% for my_page in site.pages %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
