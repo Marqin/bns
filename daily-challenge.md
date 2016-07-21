@@ -6,21 +6,21 @@ permalink: /daily-challenge/
 
 Daily Challenge starts at **6 AM UTC** on EU servers.
 
-### Monday
+### Monday - may be inaccurate
 * Chuanka Frost Cavern
 * Naryu Labyrinth
 * Avalanche Den
 * Blackram Supply Chain
 * Battleground - ?
 
-### Tuesday
+### Tuesday - may be inaccurate
 * Shrieking Caverns
 * Bloodshade Harbor
 * Cold Storage
 * Lair of the Frozen Fang
 * Arena - play 3x 3v3 match
 
-### Wednesday
+### Wednesday - may be inaccurate
 * Ogong's Folly
 * Tomb of the Exiles
 * Avalanche Den
@@ -28,27 +28,27 @@ Daily Challenge starts at **6 AM UTC** on EU servers.
 * Battleground - ?
 
 ### Thursday
-* Talus Dungeon
+* Ebon Hall
 * Blackram Supply Chain
 * Cold Storage
-* Lair of the Frozen Fang
+* Sundered Nexus
 * Arena - win 1x 1v1 match
 
 ### Friday
+* Talus Dungeon
 * Blackram Narrows
-* Heaven's Mandate
-* Zaiwei Ruins
-* Naryu Labyrinth
-* Battleground - ?
+* Awakened Necropolis
+* The Shattered Masts
+* Battleground - win 1x
 
-### Saturday
+### Saturday - may be inaccurate
 * Chuanka Frost Cavern
 * Bloodshade Harbor
 * Awakened Necropolis
 * Sogun's Lament
 * Arena - win 1x 1v1 match
 
-### Sunday
+### Sunday - may be inaccurate
 * Talus Dungeon
 * Sundered Nexus
 * Beastbog
