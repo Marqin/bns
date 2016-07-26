@@ -7,5 +7,5 @@ Hello.
 
 I'll post here some stuff related to BnS game (only one that is compliant EULA).
 
-For start - there is [Daily Challenge info](/daily-challenge) that I hope to
+For start - there is [Daily Challenge info](/bsn/daily-challenge) that I hope to
 upgrade often.
